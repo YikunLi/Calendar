@@ -1,0 +1,15 @@
+select {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+
+    width: 95px;
+    height: 26px;
+    float: left;
+    border: solid 1px #000;
+
+    text-align: center;
+    padding-right: 14px;
+
+    background: url("http://ourjs.github.io/static/2015/arrow.png") no-repeat scroll right center transparent;
+
+}
