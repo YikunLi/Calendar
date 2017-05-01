@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Calender from './Calender.js';
+import CalenderComponent from './CalenderComponent.js';
 import './index.css';
 
-ReactDOM.render(<Calender/>, document.getElementById("root"));
+ReactDOM.render(<CalenderComponent/>, document.getElementById("root"));
